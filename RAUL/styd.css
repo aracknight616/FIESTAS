@@ -1,0 +1,23 @@
+body {
+   background-color: blueviolet;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+    text-align: center;
+}
+section{
+    padding: auto;
+    font-size: 1.5em;
+    text-align: center;
+}
+.d{
+    padding: 25px;
+}
+.mer{
+    padding: 25px;
+}
+label{
+    padding: 65px;
+    font-size: 0.9em;
+}
